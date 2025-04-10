@@ -61,7 +61,7 @@
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/96288e23b0ddc315e41eedd4edfe86659563d027/07.png)
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/96288e23b0ddc315e41eedd4edfe86659563d027/08.png)
 
-![image](https://github.com/user-attachments/assets/9086eef4-24ac-403e-8c52-ee6940d3c845)
+**DATABSE**
 
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/96288e23b0ddc315e41eedd4edfe86659563d027/09.png)
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/96288e23b0ddc315e41eedd4edfe86659563d027/10.png)

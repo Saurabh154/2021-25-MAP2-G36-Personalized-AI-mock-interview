@@ -1,33 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎯 Personalized AI Mock Interview
 
-## Getting Started
+> 🚀 Your AI-powered path to mastering technical interviews – get personalized questions, answer with confidence, and level up with smart feedback!
 
-First, run the development server:
+---
+
+## 🧠 Overview
+
+**Personalized AI Mock Interview** is an interactive web application that helps job seekers practice and sharpen their interview skills using the power of AI. The platform uses **Gemini AI** to generate **tailored technical questions** based on the user's role, selected technology, and experience level.
+
+🎥 The app simulates a real interview environment with **camera integration**, records your answers, and provides **AI-driven feedback** with personalized improvement tips.
+
+---
+
+## ✨ Features
+
+- 🤖 **AI-Powered Question Generation**  
+  Get 5–6 customized questions based on your profile, role, and experience.
+
+- 🎥 **Real-Time Interview Simulation**  
+  Face one question at a time with camera access to simulate real interview pressure.
+
+- 💬 **Recorded Answers**  
+  Your responses are recorded and securely stored for evaluation.
+
+- 📊 **Smart Feedback & Scoring**  
+  Gemini AI evaluates your answers, highlights strengths, points out weaknesses, and rates your performance.
+
+- 📈 **Performance Improvement**  
+  Get suggestions for better responses and track your interview readiness.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** Neon (PostgreSQL) with Drizzle ORM  
+- **AI Model:** Gemini by Google  
+- **Others:** WebRTC (Camera access), Form Handling, REST APIs
+
+---
+
+## 🔍 How It Works
+
+1. **Login & Dashboard** – Enter job role, technology, and years of experience.  
+2. **Question Round** – Receive questions one-by-one, record your answers live.  
+3. **Evaluation Phase** – Gemini AI evaluates answers and gives detailed feedback.  
+4. **Results Page** – View your strengths, improvement areas, and overall rating.
+
+---
+
+## 📸 Screenshots
+
+> Stay tuned! UI previews of the dashboard, question interface, and feedback panel will be added soon.
+
+---
+
+## 🚀 Getting Started
 
 ```bash
+# Clone the repo
+git clone https://github.com/Saurabh154/personalized-ai-mock-interview.git
+
+# Install dependencies
+cd personalized-ai-mock-interview
+npm install
+
+# Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 

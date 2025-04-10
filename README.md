@@ -52,6 +52,11 @@
 
 ## 📸 Screenshots Of Project
 
+![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/675e213f45b20a0d6cebbec9949cb3e6cc59a932/01a.png) 
+
+![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/675e213f45b20a0d6cebbec9949cb3e6cc59a932/2a.png) 
+![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/675e213f45b20a0d6cebbec9949cb3e6cc59a932/2b.png) 
+
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/41de91b0b6c3e5a5d124ba1abd5fb3c35ffe7e69/01.png)
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/96288e23b0ddc315e41eedd4edfe86659563d027/02.png)
 ![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/96288e23b0ddc315e41eedd4edfe86659563d027/03.png)

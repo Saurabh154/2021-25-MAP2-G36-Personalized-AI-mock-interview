@@ -50,9 +50,9 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots Of Project
 
-> Stay tuned! UI previews of the dashboard, question interface, and feedback panel will be added soon.
+![image alt](https://github.com/Saurabh154/2021-25-MAP2-G36-Personalized-AI-mock-interview/blob/41de91b0b6c3e5a5d124ba1abd5fb3c35ffe7e69/01.png)
 
 ---
 
